@@ -1,4 +1,4 @@
-# Hi, I'm Kreena Sheth 👋
+# Hi, I'm Kreena Sheth
 
 ### Data Analyst | SQL | Python | Product & Business Analytics
 
