@@ -29,7 +29,7 @@ I enjoy taking a question, getting lost in the data for a while, and eventually 
 
 A collection of my projects, case studies, and analyses—all in one place.
 
-### 🚀 [Explore My Projects →](YOUR_PROJECT_PORTFOLIO_LINK)
+### 🚀 [Explore My Projects →]([YOUR_PROJECT_PORTFOLIO_LINK](https://github.com/kreenasheth-sys/Portfolio-Guide)
 
 ---
 
