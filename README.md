@@ -8,18 +8,18 @@ I enjoy taking a question, getting lost in the data for a while, and eventually 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 `Python` • `SQL` 
 
-### 📊 Data & Analytics
+### Data & Analytics
 `Pandas` • `NumPy` • `Statistics` • `Excel`
 
-### 📈 Visualization
+### Visualization
 `Power BI` • `Tableau` • `Matplotlib`
 
-### 🗄️ Databases
+### Databases
 `PostgreSQL` • `MySQL`
 
 
@@ -33,12 +33,12 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/kreen
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
-- 📊 Building end-to-end analytics projects
-- ⚙️ Strengthening my data engineering skills
-- 🤖 Exploring AI and its applications in analytics
-- 💡 Using data to solve real business problems
+- Building end-to-end analytics projects
+- Strengthening my data engineering skills
+- Exploring AI and its applications in analytics
+- Using data to solve real business problems
 
 ---
 
