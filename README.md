@@ -44,7 +44,7 @@ A collection of my projects, case studies, and analyses—all in one place.
 
 ## 🤝 Let's Connect
 
-[Linkedin](www.linkedin.com/in/kreena-sheth-9b498921a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kreena%20Sheth-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kreena-sheth-9b498921a/)
 
 ---
 
