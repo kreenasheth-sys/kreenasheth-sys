@@ -4,7 +4,7 @@
 
 > **Turning “we think” into “the data suggests.”**
 
-I enjoy taking a question, getting lost in the data for a while, and eventually coming back with an answer—or at least a much better question.
+I enjoy taking a question, getting lost in the data for a while, and eventually coming back with an answer or at least a much better question.
 
 ---
 
